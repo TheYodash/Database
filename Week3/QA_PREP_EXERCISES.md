@@ -11,7 +11,16 @@ In particular, try answering following questions and provide table definitions f
 and this week to explain the changes.
 
 - Was your database already in 2NF / 3 NF?
+
+        My original Database was not in 2NF or 3NF
+
+
+
 - What changes did you have to do to normalize your database?
+
+        - Creation of junction tables
+        - remove redundant columns
+        - establish primary and foreign keys
 
 ## Discussion
 
