@@ -9,7 +9,18 @@ Last week you updated your database to be normalized. Now that you have some mor
 to a document-based database. Think about the following:
 
 - What are the collections?
+   - ingredients
+   - steps
+   - categories
+   - recipes
+
 - What information will you embed in a document and which will you store normalised?
+  - embedded information within recipes collection (as arrays with step IDs)
+    - ingredients
+    - steps
+    - categories
+  
+    
 
 ## Discussion (Try to write answers to these questions in text, provide queries and commands when necessary)
 
